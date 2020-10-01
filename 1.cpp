@@ -1,7 +1,7 @@
 int main()
 {
   int i;
-  char c;
+  char ch;
   float f;
   return 0;
 }
